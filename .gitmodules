@@ -1,4 +1,3 @@
- 
-[submodule "themes/hugo-theme-bootstrap4-blog"]
+ [submodule "themes/hugo-theme-bootstrap4-blog"]
     path = themes/hugo-theme-bootstrap4-bootstrap4
     url = "https://github.com/Timdog142-huyo/hugo-theme-bootstrap4-blog"
