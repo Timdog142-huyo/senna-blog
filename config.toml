@@ -27,7 +27,7 @@ disqusShortname = "fuckthisshit44"
 
 [[menu.navbar]]
   name = "Posts"
-  url = "/posts/"
+  url = "posts/"
 
 [[menu.navbar]]
   name = "About"
